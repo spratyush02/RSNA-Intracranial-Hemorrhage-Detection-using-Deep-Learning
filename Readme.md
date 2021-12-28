@@ -1,5 +1,5 @@
 # RSNA Intracranial Hemorrhage Detection Instructions
-
+Please find the project report in this repository
 ## Table of contents
 <!-- [Setup](#Setup)<br> -->
 <!-- [File Structure](#Structure)<br> -->
